@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love listening to music and researching about new tech
 
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="325" height="215" align="right"/>
   </div>
   <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -16,6 +16,19 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=devnath-g&style=flat-square&color=blue" alt=""/>
+  <div align="center">
+  </div>
+
+
+
+# 🛠️ Skills : 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
+</div>
+
+# 🔥 Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnath-g&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Devnath-G/Devnath-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
