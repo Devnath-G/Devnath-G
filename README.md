@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Devnath-G
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF6F7&random=false&width=435&lines=%F0%9F%91%8B+Hey+There+!!+I'm+Devnath+G+and+Welcome+to+my+Profile++!)](https://git.io/typing-svg)
+- 🔭 I’m currently working on **Machine Learning Projects**
 - 👀 I’m interested in learning about new technologies
 - 📫 You can reach me through my LinkedIn and Instagram
 - 😄 Pronouns: He/Him
