@@ -27,7 +27,11 @@
 </div>
 
 
-## 🔥 Stats :
+## 🔥 My Stats :
+<p align="center"> <b>Profile Views<b> 
+  <br>
+  <img src="https://profile-counter.glitch.me/{devnath-g}/count.svg" alt="Profile Visits" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnath-g&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
