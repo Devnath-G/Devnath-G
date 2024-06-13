@@ -27,7 +27,7 @@
 
 <div align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=python,arduino,vscode,java,opencv,pycharm,idea,sklearn,tensorflow,windows,"/><br>
+    <img src = "https://skillicons.dev/icons?i=python,arduino,vscode,java,opencv,pycharm,idea,sklearn,tensorflow,windows,ubuntu"/><br>
     <img height=30 src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img height=30 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img height=30 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
