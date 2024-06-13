@@ -15,15 +15,27 @@
   
 
   - 🔭 I’m currently working on **Machine Learning Projects**
+    
   - 👀 I’m interested in learning about new technologies.
+
   - 📫 You can reach me through my LinkedIn or by sending me a mail to devnathg2003@gmail.com.
+
   - ⚡ Fun fact: I love listening to music and researching about new technologies.
 
 
 ## 🛠️ Skills : 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
+<div align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=python,arduino,vscode,java,opencv,pycharm,idea,sklearn,tensorflow,windows,"/><br>
+    <img height=30 src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img height=30 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img height=30 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img height=30 src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+    <img height=30 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img height=30 src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+    
+  </a>
 </div>
 
 
