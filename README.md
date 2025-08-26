@@ -18,7 +18,7 @@
     
   - 👀 I’m interested in learning about new technologies
 
-  - 📫 You can reach me through my LinkedIn or by sending me a mail to devnathg2003@gmail.com
+  - 📫 You can reach me through my LinkedIn
 
   - ⚡ Fun fact: I love listening to music and researching about new technologies
 
